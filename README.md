@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkKimani
 - 👀 I’m interested in leveraging data science skills to help in the advancement of Africa as a continent
-- 🌱 I’m currently learning Data analytics with Alx 
+- 🌱 I am a Data analytics graduate from Alx 
 - 💞️ I’m looking to collaborate on projects that will give insights to solve challenges that affect the common African inhabitant
 - 📫 How to reach me is via LinkedIn https://www.linkedin.com/in/kimaniwahome/
 - 😄 Pronouns: He
